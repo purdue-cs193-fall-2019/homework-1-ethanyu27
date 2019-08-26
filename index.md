@@ -1,6 +1,7 @@
-#Ethan's First CS193 Homework
+# Ethan's First CS193 Homework
 
-##Favorite things about CS193
+## Favorite things about CS193
+
 - CS193 is run by students, which makes the instruction much more relatable
 - Class sizes are smaller
 - Computer Science is fun!
